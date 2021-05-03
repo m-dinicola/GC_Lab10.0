@@ -1,0 +1,100 @@
+Avatar,scifi
+Spiderman,scifi
+The Hunger Games,scifi
+Inception,scifi
+Men In Black,scifi
+The Matrix,scifi
+Jurrasic Park,scifi
+Youth in Revolt,comedy
+You Will Meet a Tall Dark Stranger,comedy
+When in Rome,comedy
+What Happens in Vegas,comedy
+Water For Elephants,drama
+WALL-E,animation
+Waitress,romance
+Waiting For Forever,romance
+Valentine's Day,comedy
+Twilight,romance
+The Ugly Truth,comedy
+The Twilight Saga: New Moon,drama
+The Time Traveler's Wife,scifi
+The Proposal,comedy
+The Invention of Lying,comedy
+The Heartbreak Kid,comedy
+The Duchess,drama
+The Curious Case of Benjamin Button,adventure
+The Back-up Plan,comedy
+Tangled,animation
+Something Borrowed,romance
+She's Out of My League,comedy
+Sex and the City,comedy
+Remember Me,drama
+Rachel Getting Married,drama
+Penelope,comedy
+P.S. I Love You,romance
+Over Her Dead Body,comedy
+Our Family Wedding,comedy
+One Day,romance
+Not Easily Broken,drama
+No Reservations,comedy
+Nick and Norah's Infinite Playlist,comedy
+New Year's Eve,romance
+My Week with Marilyn,drama
+Music and Lyrics,romance
+Monte Carlo,romance
+Miss Pettigrew Lives for a Day,comedy
+Midnight in Paris,romance
+Marley and Me,comedy
+Mamma Mia!,comedy
+Made of Honor,comedy
+Love Happens,drama
+Love & Other Drugs,comedy
+Life as We Know It,comedy
+License to Wed,comedy
+Letters to Juliet,comedy
+Leap Year,comedy
+Knocked Up,comedy
+Killers,action
+Just Wright,comedy
+Jane Eyre,romance
+It's Complicated,comedy
+I Love You Phillip Morris,comedy
+High School Musical 3: Senior Year,comedy
+He's Just Not That Into You,comedy
+Good Luck Chuck,comedy
+Going the Distance,comedy
+Gnomeo and Juliet,animation
+Ghosts of Girlfriends Past,comedy
+Four Christmases,comedy
+Fireproof,drama
+Enchanted,comedy
+Dear John,drama
+Beginners,comedy
+Across the Universe,romance
+A Serious Man,drama
+A Dangerous Method,drama
+27 Dresses,comedy
+(500) Days of Summer,comedy
+1408,scifi
+Grindhouse,action
+28 Weeks Later,horror
+Paranormal Activity,horror
+The Orphanage,horror
+30 Days of Night,horror
+Cloverfield,scifi
+The Strangers,horror
+Drag Me to Hell,horror
+Carriers,horror
+The Collector,horror
+Friday the 13th,horror
+The Last House on the Left,horror
+Zombieland,comedy
+Let Me In,horror
+Rare Exports: A Christmas Tale,horror
+Cropsey,horror
+Tucker and Dale Vs. Evil,horror
+Insidious,horror
+I Saw the Devil,horror
+Back to the Future,scifi
+Back to the Future II,scifi
+Back to the Future III,scifi
