@@ -14,7 +14,7 @@ namespace Lab10._0_GC
         //properties
         public List<Movie> Movies { get; set; }     //the list of movies
 
-        public List<Movie> GenreMovies          //a list of movies matching the set genre property, corresponds to the field
+        public List<Movie> GenreMovies              //a list of movies matching the set genre property, corresponds to the field
         {
             get
             {
@@ -44,19 +44,19 @@ namespace Lab10._0_GC
         }
 
         //constructors
-        public FilmLibrary(List<Movie> movies)
+        public FilmLibrary(List<Movie> movies)      //if given a list of movies, will use that as the property "Movies"
         {
             Movies = movies;
-            genreMovies = new List<Movie>();
-            Genre = "unset";
+            genreMovies = new List<Movie>();        
+            Genre = "unset";                        //genre remains "unset" until genre is set.
         }
 
-        public FilmLibrary(List<string[]> csv)
+        public FilmLibrary(List<string[]> csv)      //if given a list of title/genre pairs, creates a new list and populates it
         {
             Movies = new List<Movie>();
             foreach(string[] line in csv)
             {
-                Movies.Add(new Movie(line));
+                Movies.Add(new Movie(line));        //list is populated with instances of new movies constructed from string[]
             }
             genreMovies = new List<Movie>();
             Genre = "unset";
@@ -78,12 +78,13 @@ namespace Lab10._0_GC
             {
                 Console.WriteLine(m.Title);
             }
+            Console.WriteLine();
         }
 
         //overload allows setting and printing a list of movies of the genre in one step.
         public void PrintGenre(string _genre)
         {
-            Genre = _genre;
+            Genre = _genre.ToLower();
             PrintGenre();
         }
 
